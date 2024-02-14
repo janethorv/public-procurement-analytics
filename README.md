@@ -8,5 +8,3 @@ CSV-files for the following years have been retrieved:
 - 2020
 - 2019
 - 2018
-
- 
