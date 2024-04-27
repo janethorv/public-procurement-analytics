@@ -24,6 +24,7 @@ EDA (Exploratory Data Analysis) contains analysis of descriptive data used in re
 Analysis conducted include:
 - Counting of all entries containing the word "beredskap" in the title.
 - Counting of all entries continaing the word "beredskap" and the word "innovasjon" in the title. 
+- Economical data about entries containing the word "beredskap" in the title. 
 - Extracting most common procurers among entries with the word "beredskap" in the title.
 - Plotting most common procurers among entries with the word "beredskap" in the title.
 
