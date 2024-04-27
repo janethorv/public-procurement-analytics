@@ -22,10 +22,10 @@ Two Jupyter Notebook files exists in this repo.
 #### EDA.ipynb
 EDA (Exploratory Data Analysis) contains analysis of descriptive data used in report on preparedness in public procurement.
 Analysis conducted include:
-- 
-
-The following metrics have been referenced in the report:
-- 
+- Counting of all entries containing the word "beredskap" in the title.
+- Counting of all entries continaing the word "beredskap" and the word "innovasjon" in the title. 
+- Extracting most common procurers among entries with the word "beredskap" in the title.
+- Plotting most common procurers among entries with the word "beredskap" in the title.
 
 #### wordfrequency.ipynb
 Word frequency analysis, finding most common words in title among those data set entries that cointains the word "beredskap" in title.
